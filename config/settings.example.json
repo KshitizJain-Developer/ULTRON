@@ -1,0 +1,7 @@
+{
+  "model": "gemini-3.6-flash",
+  "wake_word": "ultron",
+  "voice_output": false,
+  "confirm_sensitive_actions": true,
+  "camera_enabled": false
+}

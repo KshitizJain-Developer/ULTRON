@@ -1,0 +1,36 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+config/settings.json
+
+# Private runtime memory
+memory/*
+!memory/.gitkeep
+
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build and coverage output
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Local IDE and operating-system files
+.idea/
+.vscode/
+*.lnk
+.DS_Store
+Thumbs.db

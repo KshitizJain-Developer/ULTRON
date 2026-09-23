@@ -1,0 +1,6 @@
+customtkinter
+google-genai
+pillow
+pyttsx3
+SpeechRecognition
+pyaudio
