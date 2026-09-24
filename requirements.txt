@@ -4,3 +4,6 @@ pillow
 pyttsx3
 SpeechRecognition
 pyaudio
+Flask
+flask-cors
+gunicorn
